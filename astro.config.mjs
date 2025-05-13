@@ -5,8 +5,7 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://layer-guru.github.io",
-  base: "layer-guru-static",
+  site: "https://layer.guru",
   devToolbar: {
     enabled: true,
   },
